@@ -32,9 +32,12 @@ Victory lesson:
 
 ---
 
-## Shelby — exact creator handle pending
+## @diaryofasalesgirl
 Role:
 **Career-Money Business Model / Strategic Benchmark**
+
+Profile:
+https://www.tiktok.com/@diaryofasalesgirl
 
 Victoria says:
 - Shelby works in sales while Victoria works in claims
