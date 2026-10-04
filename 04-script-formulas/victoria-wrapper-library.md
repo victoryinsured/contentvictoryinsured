@@ -195,3 +195,127 @@ This is how Victoria can teach the same deep mechanism repeatedly without making
 **Application = what they should do differently.**
 
 **Payoff = the sentence they remember.**
+
+
+---
+
+# Macro Wrappers vs Micro Wrappers
+
+A single video can have more than one wrapper.
+
+## Macro Wrapper
+The **macro wrapper** is the main surface premise of the entire video — what the viewer thinks the whole video is about.
+
+Examples:
+- "How I would sell the rain on not ruining my wedding."
+- "Sales Maxxing 101."
+- "Here's something plastic surgeons do with a mirror."
+
+The macro wrapper gets the click and gives the video its overall creative identity.
+
+## Micro Wrapper
+A **micro wrapper** repackages one abstract idea *inside* the larger video into something concrete, memorable, or easier to understand.
+
+A video can contain several micro wrappers.
+
+Examples:
+
+### Analogy Micro Wrapper
+Instead of:
+"Customers care about benefits more than features."
+
+Use:
+"Nobody cares how the steak is cooked..."
+
+The steak becomes a small analogy wrapper for one concept inside the larger video.
+
+### Categorization / List Micro Wrapper
+Instead of:
+"Different buyers have different motivations."
+
+Use:
+"Business owners buy X. Parents buy Y. Beginners buy Z. Experts buy..."
+
+The categories make an abstract principle easier to process and remember.
+
+### Named-Concept Micro Wrapper
+Instead of:
+"Help the buyer imagine a future version of themselves."
+
+Name it:
+"Identity Selling."
+
+Naming the idea gives the audience a reusable mental handle.
+
+### Contrast Micro Wrapper
+Instead of explaining a concept in one direction, show:
+"Don't do X. Do Y."
+or
+"You think X. It's actually Y."
+
+Contrast makes the lesson easier to see.
+
+### Mini Scenario Micro Wrapper
+Drop a short imagined example or role-play inside the main video to demonstrate one principle before continuing.
+
+### Metaphor Micro Wrapper
+Turn the concept into a visual phrase such as:
+"hand them the mirror,"
+"sell the sizzle,"
+or a Victoria-original equivalent.
+
+---
+
+# Why Micro Wrappers Matter
+
+Micro wrappers prevent dense expert content from becoming one long abstract explanation.
+
+They continually convert:
+**abstract idea → concrete thing → abstract idea → concrete thing**
+
+That creates movement inside the script.
+
+A strong dense video may therefore look like:
+
+**MACRO WRAPPER**
+→ Principle
+→ Micro analogy
+→ Reframe
+→ Micro categorization
+→ Psychology
+→ Named concept
+→ Command
+→ Another micro example
+→ Payoff
+
+This is especially useful for:
+- Truth Stack / Insider Knowledge
+- Technical Breakdown
+- Demonstrate My Brain
+- Claims Corner
+- long-form teaching
+
+---
+
+# Victoria Rule
+
+Do not only ask:
+**"What is the wrapper for this video?"**
+
+Also ask:
+**"Which abstract ideas inside this script need their own mini-wrapper so the audience can SEE them?"**
+
+Victoria's content should repeatedly repackage abstractions into:
+- analogies
+- categories
+- named concepts
+- contrasts
+- mini scenarios
+- examples
+- metaphors
+- memorable phrases
+
+The goal is not decoration.
+
+The goal is:
+**make complex thinking easy to see, remember, and repeat.**
